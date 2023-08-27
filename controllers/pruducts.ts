@@ -1,5 +1,4 @@
 import { Request, Response, Router } from "express";
-
 import {Toode} from "../models/toode";
 
 const router: Router = Router();
